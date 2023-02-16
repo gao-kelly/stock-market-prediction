@@ -1,5 +1,5 @@
 # stock-market-prediction
-Simple prediction model using LR classifier 
+Simple prediction model using LR prediction
 
 Tinkering sc for LR regression-based model training using pandas for data fetch and cleaning and sci-kit learn and plots data visually with pyplot
 
