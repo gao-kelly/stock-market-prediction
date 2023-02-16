@@ -1,7 +1,7 @@
 # stock-market-prediction
 Simple prediction model using LR prediction
 
-Tinkering sc for LR regression-based model training using pandas for data fetch and cleaning and sci-kit learn and plots data visually with pyplot
+Tinkering; i made a LR regression-based model training using pandas for data fetch and cleaning and sci-kit learn and plots data visually with pyplot
 
 
 - The long-term purpose of this project is to further develop the model to predict future stock behaviour using combined NLP
