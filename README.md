@@ -5,7 +5,7 @@ Tinkering with sc for regression-based model training using pandas for data fetc
 
 
 - The long-term purpose of this project is to further develop the model to predict future stock behaviour using combined NLP
-- Will combine NN model with LR model 
+- May change model completely to NN in future
 - Employ data visualization libraries
 
 
